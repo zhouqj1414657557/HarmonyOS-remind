@@ -1,0 +1,7 @@
+{
+  "src": [
+    "pages/MinePage",
+    "pages/NeedListPage",
+    "pages/AddNeedPage"
+  ]
+}
